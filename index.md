@@ -8,6 +8,6 @@ I enjoy gaming, programming, and other nerd things. I like figuring out how thin
 
 
 ## Contact information
-*Email : justinlaechelin@gmail.com*
-*[LinkedIn](www.linkedin.com/in/justin-laechelin-8a12303bb)*
-*[Github](https://github.com/TheRaven-sys)*
+*Email : justinlaechelin@gmail.com*<br>
+*[LinkedIn](www.linkedin.com/in/justin-laechelin-8a12303bb)*<br>
+*[Github](https://github.com/TheRaven-sys)*<br>
