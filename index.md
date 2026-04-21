@@ -1,5 +1,5 @@
 # Justin Laechelin
-Hi! I am a student at Del Mar
+Hi! I am a student at Del Mar<br>
 <img src="20260310_183109.jpg" alt="Photo of Me" width="200" height="250">
 
 ## About me
